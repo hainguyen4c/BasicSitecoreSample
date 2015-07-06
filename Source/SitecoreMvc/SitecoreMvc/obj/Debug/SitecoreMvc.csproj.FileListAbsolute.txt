@@ -1,0 +1,4 @@
+E:\Github\BasicSitecore\Source\SitecoreMvc\SitecoreMvc\bin\SitecoreMvc.dll
+E:\Github\BasicSitecore\Source\SitecoreMvc\SitecoreMvc\bin\SitecoreMvc.pdb
+E:\Github\BasicSitecore\Source\SitecoreMvc\SitecoreMvc\obj\Debug\SitecoreMvc.dll
+E:\Github\BasicSitecore\Source\SitecoreMvc\SitecoreMvc\obj\Debug\SitecoreMvc.pdb
