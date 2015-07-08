@@ -6,10 +6,15 @@ by editing this MSBuild file. In order to learn more about this please visit htt
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <_PublishTargetUrl>ftp://178.16.10.112/</_PublishTargetUrl>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAfJp2Fj+Xxk+Y4hqyjVBR6wAAAAACAAAAAAADZgAAwAAAABAAAACExdnT78FmoQZkypCr+BokAAAAAASAAACgAAAAEAAAAHzHPf0v2iVbn3hQ4u8NukYQAAAAs46XOXfSwHRTIbk/+bZvRBQAAADfnpXSOW0O8vg4JxgnGeaCsjbXHg==</EncryptedPassword>
   </PropertyGroup>
   <ItemGroup>
     <File Include="bin/BasicSitecore_HN.dll">
-      <publishTime>07/08/2015 09:41:51</publishTime>
+      <publishTime>07/08/2015 13:44:27</publishTime>
+    </File>
+    <File Include="bin/BasicSitecore_HN.pdb">
+      <publishTime>07/08/2015 13:44:27</publishTime>
     </File>
     <File Include="css/campaigns.css">
       <publishTime>07/08/2015 09:20:18</publishTime>
@@ -29,8 +34,23 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     <File Include="img/road-cyclist.png">
       <publishTime>07/08/2015 09:20:18</publishTime>
     </File>
+    <File Include="layouts/HaiNguyen/BicycleOverview.ascx">
+      <publishTime>07/08/2015 12:48:54</publishTime>
+    </File>
+    <File Include="layouts/HaiNguyen/CommentsForm.ascx">
+      <publishTime>07/08/2015 13:43:45</publishTime>
+    </File>
+    <File Include="layouts/HaiNguyen/Introduction.ascx">
+      <publishTime>07/08/2015 12:36:06</publishTime>
+    </File>
     <File Include="layouts/HaiNguyen/Main.aspx">
-      <publishTime>07/08/2015 09:20:18</publishTime>
+      <publishTime>07/08/2015 11:54:59</publishTime>
+    </File>
+    <File Include="layouts/HaiNguyen/Subnavigation.ascx">
+      <publishTime>07/08/2015 13:07:25</publishTime>
+    </File>
+    <File Include="layouts/HaiNguyen/TripOverview.ascx">
+      <publishTime>07/08/2015 12:39:17</publishTime>
     </File>
   </ItemGroup>
 </Project>

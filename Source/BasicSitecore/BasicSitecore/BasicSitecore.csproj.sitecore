@@ -1,5 +1,5 @@
 ﻿<Project>
   <PropertyGroup>
-    <Site Server="http://113.161.77.24:10440/" UserName="sitecore\admin" IsRemoteSitecore="False" />
+    <Site Server="http://178.16.10.112:10440" UserName="sitecore\admin" IsRemoteSitecore="False" />
   </PropertyGroup>
 </Project>

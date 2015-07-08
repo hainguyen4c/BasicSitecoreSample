@@ -61,12 +61,48 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="common\TemplateReferences.cs" />
+    <Compile Include="layouts\HaiNguyen\BicycleOverview.ascx.cs">
+      <DependentUpon>BicycleOverview.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="layouts\HaiNguyen\BicycleOverview.ascx.designer.cs">
+      <DependentUpon>BicycleOverview.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="layouts\HaiNguyen\CommentsForm.ascx.cs">
+      <DependentUpon>CommentsForm.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="layouts\HaiNguyen\CommentsForm.ascx.designer.cs">
+      <DependentUpon>CommentsForm.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="layouts\HaiNguyen\Introduction.ascx.cs">
+      <DependentUpon>Introduction.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="layouts\HaiNguyen\Introduction.ascx.designer.cs">
+      <DependentUpon>Introduction.ascx</DependentUpon>
+    </Compile>
     <Compile Include="layouts\HaiNguyen\Main.aspx.cs">
       <DependentUpon>Main.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="layouts\HaiNguyen\Main.aspx.designer.cs">
       <DependentUpon>Main.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="layouts\HaiNguyen\Subnavigation.ascx.cs">
+      <DependentUpon>Subnavigation.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="layouts\HaiNguyen\Subnavigation.ascx.designer.cs">
+      <DependentUpon>Subnavigation.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="layouts\HaiNguyen\TripOverview.ascx.cs">
+      <DependentUpon>TripOverview.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="layouts\HaiNguyen\TripOverview.ascx.designer.cs">
+      <DependentUpon>TripOverview.ascx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -77,9 +113,14 @@
     <Content Include="img\forest-cyclist.png" />
     <Content Include="img\main-image.png" />
     <Content Include="img\road-cyclist.png" />
+    <Content Include="layouts\HaiNguyen\BicycleOverview.ascx" />
+    <Content Include="layouts\HaiNguyen\CommentsForm.ascx" />
+    <Content Include="layouts\HaiNguyen\Introduction.ascx" />
     <Content Include="layouts\HaiNguyen\Main.aspx">
       <SubType>ASPXCodeBehind</SubType>
     </Content>
+    <Content Include="layouts\HaiNguyen\Subnavigation.ascx" />
+    <Content Include="layouts\HaiNguyen\TripOverview.ascx" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Properties\PublishProfiles\BasicSitecore.pubxml" />
