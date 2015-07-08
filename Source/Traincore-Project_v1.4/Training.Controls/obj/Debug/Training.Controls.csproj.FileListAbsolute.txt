@@ -1,0 +1,9 @@
+C:\Projects\TrainCore\Training.Controls\bin\Debug\Training.Controls.dll
+C:\Projects\TrainCore\Training.Controls\bin\Debug\Training.Controls.pdb
+C:\Projects\TrainCore\Training.Controls\bin\Debug\Training.Utilities.dll
+C:\Projects\TrainCore\Training.Controls\bin\Debug\Sitecore.ContentSearch.dll
+C:\Projects\TrainCore\Training.Controls\bin\Debug\Sitecore.ContentSearch.Linq.dll
+C:\Projects\TrainCore\Training.Controls\bin\Debug\Training.Utilities.pdb
+C:\Projects\TrainCore\Training.Controls\obj\Debug\Training.Controls.csprojResolveAssemblyReference.cache
+C:\Projects\TrainCore\Training.Controls\obj\Debug\Training.Controls.dll
+C:\Projects\TrainCore\Training.Controls\obj\Debug\Training.Controls.pdb
