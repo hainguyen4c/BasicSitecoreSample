@@ -1,0 +1,5 @@
+E:\Github\BasicSitecoreSample\Source\BasicSitecore\BasicSitecore\bin\BasicSitecore_HN.dll
+E:\Github\BasicSitecoreSample\Source\BasicSitecore\BasicSitecore\bin\BasicSitecore_HN.pdb
+E:\Github\BasicSitecoreSample\Source\BasicSitecore\BasicSitecore\obj\Release\BasicSitecore.csprojResolveAssemblyReference.cache
+E:\Github\BasicSitecoreSample\Source\BasicSitecore\BasicSitecore\obj\Release\BasicSitecore_HN.dll
+E:\Github\BasicSitecoreSample\Source\BasicSitecore\BasicSitecore\obj\Release\BasicSitecore_HN.pdb

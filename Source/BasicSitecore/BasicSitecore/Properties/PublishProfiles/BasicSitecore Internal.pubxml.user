@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>ftp://178.16.10.112/</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/BasicSitecore_HN.dll">
+      <publishTime>07/08/2015 09:41:51</publishTime>
+    </File>
+    <File Include="css/campaigns.css">
+      <publishTime>07/08/2015 09:20:18</publishTime>
+    </File>
+    <File Include="img/banner.png">
+      <publishTime>07/08/2015 09:20:18</publishTime>
+    </File>
+    <File Include="img/bike.png">
+      <publishTime>07/08/2015 09:20:18</publishTime>
+    </File>
+    <File Include="img/forest-cyclist.png">
+      <publishTime>07/08/2015 09:20:18</publishTime>
+    </File>
+    <File Include="img/main-image.png">
+      <publishTime>07/08/2015 09:20:18</publishTime>
+    </File>
+    <File Include="img/road-cyclist.png">
+      <publishTime>07/08/2015 09:20:18</publishTime>
+    </File>
+    <File Include="layouts/HaiNguyen/Main.aspx">
+      <publishTime>07/08/2015 09:20:18</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
