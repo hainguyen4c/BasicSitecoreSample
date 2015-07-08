@@ -11,10 +11,10 @@ by editing this MSBuild file. In order to learn more about this please visit htt
   </PropertyGroup>
   <ItemGroup>
     <File Include="bin/BasicSitecore_HN.dll">
-      <publishTime>07/08/2015 13:44:27</publishTime>
+      <publishTime>07/08/2015 14:26:11</publishTime>
     </File>
     <File Include="bin/BasicSitecore_HN.pdb">
-      <publishTime>07/08/2015 13:44:27</publishTime>
+      <publishTime>07/08/2015 14:26:11</publishTime>
     </File>
     <File Include="css/campaigns.css">
       <publishTime>07/08/2015 09:20:18</publishTime>
@@ -39,6 +39,12 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     </File>
     <File Include="layouts/HaiNguyen/CommentsForm.ascx">
       <publishTime>07/08/2015 13:43:45</publishTime>
+    </File>
+    <File Include="layouts/HaiNguyen/CommentsList.ascx">
+      <publishTime>07/08/2015 13:51:16</publishTime>
+    </File>
+    <File Include="layouts/HaiNguyen/FeaturedTrip.ascx">
+      <publishTime>07/08/2015 14:18:36</publishTime>
     </File>
     <File Include="layouts/HaiNguyen/Introduction.ascx">
       <publishTime>07/08/2015 12:36:06</publishTime>

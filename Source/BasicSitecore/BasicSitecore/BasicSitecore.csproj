@@ -76,6 +76,20 @@
     <Compile Include="layouts\HaiNguyen\CommentsForm.ascx.designer.cs">
       <DependentUpon>CommentsForm.ascx</DependentUpon>
     </Compile>
+    <Compile Include="layouts\HaiNguyen\CommentsList.ascx.cs">
+      <DependentUpon>CommentsList.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="layouts\HaiNguyen\CommentsList.ascx.designer.cs">
+      <DependentUpon>CommentsList.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="layouts\HaiNguyen\FeaturedTrip.ascx.cs">
+      <DependentUpon>FeaturedTrip.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="layouts\HaiNguyen\FeaturedTrip.ascx.designer.cs">
+      <DependentUpon>FeaturedTrip.ascx</DependentUpon>
+    </Compile>
     <Compile Include="layouts\HaiNguyen\Introduction.ascx.cs">
       <DependentUpon>Introduction.ascx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -115,6 +129,8 @@
     <Content Include="img\road-cyclist.png" />
     <Content Include="layouts\HaiNguyen\BicycleOverview.ascx" />
     <Content Include="layouts\HaiNguyen\CommentsForm.ascx" />
+    <Content Include="layouts\HaiNguyen\CommentsList.ascx" />
+    <Content Include="layouts\HaiNguyen\FeaturedTrip.ascx" />
     <Content Include="layouts\HaiNguyen\Introduction.ascx" />
     <Content Include="layouts\HaiNguyen\Main.aspx">
       <SubType>ASPXCodeBehind</SubType>
